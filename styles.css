@@ -3,10 +3,35 @@ body {
   background-color: #011F3F;
 }
 
+h1, h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+ 
+}
+
+#score-title {
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.2rem;
+  color: #ffcc00;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+  padding: 10px;
+  border: 2px solid #ffcc00;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: inline-block;
+}
+
+
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
+  margin-bottom: 37px;
   color: #FEF2BF;
 }
 

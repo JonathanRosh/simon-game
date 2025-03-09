@@ -10,6 +10,7 @@ This project is part of the **Web Development Bootcamp by Angela Yu** and focuse
 - **Audio Feedback**: Each button is paired with a unique sound to help players remember the sequence.
 - **Increasing Difficulty**: The sequence length increases after each round.
 - **Game Over Mechanism**: The game ends when the player makes a mistake.
+- **Score Tracking**: Displays the current score and the highest score achieved (saved using localStorage).
 
 ## Technologies Used
 
